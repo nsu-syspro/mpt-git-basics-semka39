@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "mpt"
+assignment: "git-basics"
+owner:
+  username: "semka39"
+  id: 86042183
+  accepted_at: "2026-10-09T16:24:26Z"
+source:
+  owner: "nsu-syspro"
+  owner_id: 115493553
+  repo: "mpt-git-basics"
+  branch: "main"
